@@ -8,10 +8,10 @@ st.write("2つの数字を入力して、基本的な計算を行います")
 col1, col2 = st.columns(2)
 
 with col1:
-    input1 = st.text_input("1つ目の数字", placeholder="数字を入力してください")
+    input1 = st.text_input("1つ目の数字", value="0", placeholder="数字を入力してください")
 
 with col2:
-    input2 = st.text_input("2つ目の数字", placeholder="数字を入力してください")
+    input2 = st.text_input("2つ目の数字", value="0", placeholder="数字を入力してください")
 
 # 入力値の検証と計算
 if input1 and input2:
