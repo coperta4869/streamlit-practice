@@ -1,0 +1,12 @@
+site_name: card_games_app
+site_url: https://coperta4869.github.io/streamlit-practice/
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Now: test.md
+repo_url: https://github.com/coperta4869/streamlit-practice
+
+extra:
+  version:
+    provider: mike
