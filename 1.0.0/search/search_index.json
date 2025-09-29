@@ -1,1 +1,1 @@
-{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"","title":"Home"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"test/","title":"Now","text":""},{"location":"test/#_1","title":"\u4eca\u4f55\u3084\u3063\u3066\u308b\u304b\u308f\u304b\u3089\u3093","text":""}]}
