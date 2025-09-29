@@ -4,7 +4,7 @@ theme:
   name: material
 nav:
   - Home: index.md
-  - Now: test.md
+  - High_and_Low: High_and_Low.md
 repo_url: https://github.com/coperta4869/streamlit-practice
 
 extra:
